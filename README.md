@@ -8,6 +8,7 @@ It reflects my **consistent DSA practice**, problem-solving approach, and prepar
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Math
 |  |
@@ -36,4 +37,8 @@ It reflects my **consistent DSA practice**, problem-solving approach, and prepar
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0543-diameter-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
