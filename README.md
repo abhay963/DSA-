@@ -1,7 +1,39 @@
-# 🚀 LeetCode Solutions 
+<div align="center">
 
-This repository contains my **LeetCode problem solutions***.  
-It reflects my **consistent DSA practice**, problem-solving approach, and preparation for **technical interviews**.
+# 🚀 LeetCode Solutions
+
+### 📈 Consistent DSA Practice | 🧠 Interview Preparation | 💻 Problem Solving
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+---
+
+![LeetCode](https://img.shields.io/badge/LeetCode-DSA-orange?style=for-the-badge&logo=leetcode)
+![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Interview%20Prep-red?style=for-the-badge)
+
+</div>
+
+---
+
+## 📌 About This Repository
+
+This repository contains my **solutions to LeetCode problems**, created as part of my **daily Data Structures & Algorithms practice**.
+
+✨ The goal of this repo:
+- Build **strong problem-solving skills**
+- Master **DSA patterns**
+- Prepare for **FAANG / Product-based company interviews**
+- Maintain **consistency & discipline**
+
+Each solution focuses on:
+- ✅ Clean logic  
+- ✅ Optimal approach  
+- ✅ Edge cases  
+- ✅ Interview relevance  
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
