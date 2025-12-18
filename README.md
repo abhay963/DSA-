@@ -18,17 +18,20 @@ It reflects my **consistent DSA practice**, problem-solving approach, and prepar
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhay963/DSA-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -38,6 +41,7 @@ It reflects my **consistent DSA practice**, problem-solving approach, and prepar
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0543-diameter-of-binary-tree) |
 ## Sorting
 |  |
