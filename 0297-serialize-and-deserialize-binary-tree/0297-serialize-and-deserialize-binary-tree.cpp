@@ -10,7 +10,6 @@
 class Codec {
 public:
 
-
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
         string ans="";
@@ -20,14 +19,13 @@ public:
         while(!q.empty()){
           TreeNode* top=q.front();
           q.pop();
-          if(top==NULL)ans+=("#,");
+          if(top==NULL)ans+="#,";
           else ans+=(to_string(top->val)+",");
+
           if(top!=NULL){
             q.push(top->left);
             q.push(top->right);
           }
-
-
         }
         return ans;
     }
@@ -35,36 +33,39 @@ public:
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
         if(data.size()==0)return NULL;
+
         stringstream s(data);
         string str;
         getline(s,str,',');
+
         TreeNode* root=new TreeNode(stoi(str));
+
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
-          auto top=q.front();
+          TreeNode*  top=q.front();
           q.pop();
+
           getline(s,str,',');
-          if(str=="#"){
-            top->left=NULL;
-          }
-          else{
+          if(str=="#")top->left=NULL;
+          else {
             TreeNode* leftnode=new TreeNode(stoi(str));
             top->left=leftnode;
             q.push(leftnode);
           }
+        
 
-          getline(s,str,',');
-          if(str=="#"){
-           top->right=NULL;
-          }
-          else{
-            TreeNode* rightnode=new TreeNode(stoi(str));
-           top->right=rightnode;
-            q.push(rightnode);
-          }
+
+        getline(s,str,',');
+        if(str=="#")top->right=NULL;
+        else{
+          TreeNode* rightnode=new TreeNode(stoi(str));
+          top->right=rightnode;
+          q.push(rightnode);
         }
-        return root;
+        
+    }
+    return root;
     }
 };
 
