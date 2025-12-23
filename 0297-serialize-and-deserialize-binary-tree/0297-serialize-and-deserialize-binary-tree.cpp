@@ -20,8 +20,8 @@ public:
         while(!q.empty()){
           TreeNode* top=q.front();
           q.pop();
-          if(top==NULL)ans.append("#,");
-          else ans.append(to_string(top->val)+",");
+          if(top==NULL)ans+=("#,");
+          else ans+=(to_string(top->val)+",");
           if(top!=NULL){
             q.push(top->left);
             q.push(top->right);
