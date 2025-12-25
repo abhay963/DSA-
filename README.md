@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhay963/DSA-/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -185,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhay963/DSA-/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/abhay963/DSA-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhay963/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhay963/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
@@ -255,4 +257,8 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhay963/DSA-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
