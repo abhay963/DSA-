@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhay963/DSA-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/abhay963/DSA-/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -160,6 +161,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhay963/DSA-/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
@@ -271,6 +273,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhay963/DSA-/tree/master/0015-3sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Trie
 |  |
