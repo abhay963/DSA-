@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhay963/DSA-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -251,6 +252,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhay963/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
