@@ -33,6 +33,7 @@
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhay963/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
@@ -106,6 +107,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhay963/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/abhay963/DSA-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/abhay963/DSA-/tree/master/0257-binary-tree-paths) |
@@ -128,6 +130,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/abhay963/DSA-/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/abhay963/DSA-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhay963/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abhay963/DSA-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -190,6 +193,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abhay963/DSA-/tree/master/2092-find-all-people-with-secret) |
 ## Graph
@@ -318,6 +322,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhay963/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
