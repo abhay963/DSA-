@@ -202,6 +202,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/abhay963/DSA-/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhay963/DSA-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhay963/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abhay963/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/abhay963/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhay963/DSA-/tree/master/0018-4sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Trie
 |  |
