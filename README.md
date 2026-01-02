@@ -39,6 +39,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/abhay963/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhay963/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhay963/DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhay963/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -210,6 +211,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhay963/DSA-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhay963/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhay963/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhay963/DSA-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
