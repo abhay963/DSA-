@@ -55,6 +55,7 @@
 | [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhay963/DSA-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -229,6 +230,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhay963/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhay963/DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhay963/DSA-/tree/master/0222-count-complete-tree-nodes) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -305,6 +308,7 @@
 | [0018-4sum](https://github.com/abhay963/DSA-/tree/master/0018-4sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Trie
 |  |
 | ------- |
