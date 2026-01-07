@@ -243,6 +243,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhay963/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhay963/DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3798-largest-even-number](https://github.com/abhay963/DSA-/tree/master/3798-largest-even-number) |
 ## Backtracking
 |  |
 | ------- |
