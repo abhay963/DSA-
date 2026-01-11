@@ -31,6 +31,7 @@
 | [0015-3sum](https://github.com/abhay963/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhay963/DSA-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
+| [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhay963/DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhay963/DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -289,6 +291,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhay963/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/abhay963/DSA-/tree/master/0173-binary-search-tree-iterator) |
@@ -317,6 +320,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhay963/DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
@@ -350,6 +354,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhay963/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
