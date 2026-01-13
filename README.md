@@ -247,6 +247,7 @@
 | [0127-word-ladder](https://github.com/abhay963/DSA-/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/abhay963/DSA-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhay963/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0657-robot-return-to-origin](https://github.com/abhay963/DSA-/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhay963/DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhay963/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -350,6 +351,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/abhay963/DSA-/tree/master/0657-robot-return-to-origin) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
 ## Matrix
 |  |
