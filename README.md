@@ -290,6 +290,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/abhay963/DSA-/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/abhay963/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhay963/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
@@ -298,6 +299,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhay963/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/abhay963/DSA-/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/abhay963/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhay963/DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
@@ -399,4 +401,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhay963/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhay963/DSA-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
