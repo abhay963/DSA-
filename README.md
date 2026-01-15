@@ -246,6 +246,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhay963/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/abhay963/DSA-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/abhay963/DSA-/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/abhay963/DSA-/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/abhay963/DSA-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhay963/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -295,6 +296,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhay963/DSA-/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhay963/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
