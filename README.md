@@ -52,6 +52,7 @@
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhay963/DSA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhay963/DSA-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhay963/DSA-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhay963/DSA-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhay963/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Math
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhay963/DSA-/tree/master/0222-count-complete-tree-nodes) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhay963/DSA-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Divide and Conquer
 |  |
