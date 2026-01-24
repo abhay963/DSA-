@@ -47,6 +47,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhay963/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhay963/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhay963/DSA-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -207,6 +208,7 @@
 | [0018-4sum](https://github.com/abhay963/DSA-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/abhay963/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
@@ -280,6 +282,7 @@
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhay963/DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
@@ -364,6 +367,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1768-merge-strings-alternately](https://github.com/abhay963/DSA-/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Trie
 |  |
