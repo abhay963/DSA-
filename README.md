@@ -49,6 +49,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhay963/DSA-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhay963/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
@@ -209,6 +210,7 @@
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhay963/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/abhay963/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
@@ -216,6 +218,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhay963/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhay963/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
