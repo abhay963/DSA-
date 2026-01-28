@@ -34,6 +34,7 @@
 | [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhay963/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -304,6 +305,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhay963/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/abhay963/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhay963/DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -387,6 +389,7 @@
 | [0018-4sum](https://github.com/abhay963/DSA-/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/abhay963/DSA-/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhay963/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1768-merge-strings-alternately](https://github.com/abhay963/DSA-/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
