@@ -261,6 +261,7 @@
 | [0127-word-ladder](https://github.com/abhay963/DSA-/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhay963/DSA-/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/abhay963/DSA-/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -344,6 +345,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/abhay963/DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/abhay963/DSA-/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhay963/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhay963/DSA-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhay963/DSA-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Stack
@@ -365,11 +367,13 @@
 | [0023-merge-k-sorted-lists](https://github.com/abhay963/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhay963/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhay963/DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhay963/DSA-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
