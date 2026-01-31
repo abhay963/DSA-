@@ -325,6 +325,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhay963/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
@@ -353,12 +354,14 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/abhay963/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhay963/DSA-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhay963/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhay963/DSA-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhay963/DSA-/tree/master/2336-smallest-number-in-infinite-set) |
@@ -440,6 +443,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhay963/DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
