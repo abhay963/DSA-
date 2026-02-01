@@ -60,6 +60,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhay963/DSA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhay963/DSA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhay963/DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhay963/DSA-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -229,6 +230,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/abhay963/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhay963/DSA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhay963/DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sliding Window
 |  |
@@ -483,6 +485,7 @@
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhay963/DSA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhay963/DSA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhay963/DSA-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Topological Sort
 |  |
