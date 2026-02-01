@@ -220,6 +220,7 @@
 | [0015-3sum](https://github.com/abhay963/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhay963/DSA-/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/abhay963/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/abhay963/DSA-/tree/master/1200-minimum-absolute-difference) |
@@ -344,6 +345,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/abhay963/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhay963/DSA-/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/abhay963/DSA-/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/abhay963/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/abhay963/DSA-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhay963/DSA-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhay963/DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/abhay963/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhay963/DSA-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -411,6 +414,7 @@
 | [0125-valid-palindrome](https://github.com/abhay963/DSA-/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhay963/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhay963/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/abhay963/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1768-merge-strings-alternately](https://github.com/abhay963/DSA-/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -495,6 +499,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhay963/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhay963/DSA-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
