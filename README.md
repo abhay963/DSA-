@@ -62,6 +62,7 @@
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhay963/DSA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhay963/DSA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhay963/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhay963/DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhay963/DSA-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -239,6 +240,7 @@
 | [0076-minimum-window-substring](https://github.com/abhay963/DSA-/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhay963/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhay963/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhay963/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhay963/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
@@ -284,6 +286,7 @@
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhay963/DSA-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhay963/DSA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhay963/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay963/DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -390,6 +393,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhay963/DSA-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhay963/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhay963/DSA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
