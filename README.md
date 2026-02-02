@@ -41,6 +41,7 @@
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhay963/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhay963/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abhay963/DSA-/tree/master/0076-minimum-window-substring) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhay963/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhay963/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhay963/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhay963/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -245,6 +247,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/abhay963/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhay963/DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhay963/DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhay963/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -277,6 +280,7 @@
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhay963/DSA-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhay963/DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0930-binary-subarrays-with-sum](https://github.com/abhay963/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhay963/DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhay963/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
