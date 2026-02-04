@@ -37,6 +37,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhay963/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/abhay963/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/abhay963/DSA-/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/abhay963/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhay963/DSA-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhay963/DSA-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhay963/DSA-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -395,6 +397,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhay963/DSA-/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/abhay963/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/abhay963/DSA-/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
@@ -520,6 +523,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhay963/DSA-/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/abhay963/DSA-/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
@@ -546,4 +550,8 @@
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/abhay963/DSA-/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhay963/DSA-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/abhay963/DSA-/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
