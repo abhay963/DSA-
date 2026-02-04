@@ -70,6 +70,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhay963/DSA-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3637-trionic-array-i](https://github.com/abhay963/DSA-/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/abhay963/DSA-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhay963/DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhay963/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay963/DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -99,6 +100,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhay963/DSA-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/abhay963/DSA-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhay963/DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhay963/DSA-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
