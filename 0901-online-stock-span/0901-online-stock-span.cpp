@@ -1,0 +1,24 @@
+class StockSpanner {
+public:
+vector<int>arr;
+    StockSpanner() {
+        
+    }
+    
+    int next(int price) {
+        arr.push_back(price);
+        if(arr.size()==1)return 1;
+        int cnt=0;
+        for(int i=arr.size()-1;i>=0;i-- ){
+          if(arr[i]<=price)cnt++;
+          else break;
+        }
+        return cnt;
+    }
+};
+
+/**
+ * Your StockSpanner object will be instantiated and called as such:
+ * StockSpanner* obj = new StockSpanner();
+ * int param_1 = obj->next(price);
+ */
