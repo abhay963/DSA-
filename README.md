@@ -139,6 +139,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhay963/DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhay963/DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhay963/DSA-/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhay963/DSA-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -168,6 +169,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/abhay963/DSA-/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhay963/DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abhay963/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhay963/DSA-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -224,6 +226,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhay963/DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/abhay963/DSA-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhay963/DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/abhay963/DSA-/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhay963/DSA-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sorting
@@ -341,6 +344,7 @@
 | [0011-container-with-most-water](https://github.com/abhay963/DSA-/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhay963/DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
@@ -366,6 +370,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -428,6 +433,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhay963/DSA-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhay963/DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
