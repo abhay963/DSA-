@@ -77,6 +77,7 @@
 | [3640-trionic-array-ii](https://github.com/abhay963/DSA-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhay963/DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhay963/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhay963/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay963/DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
@@ -266,6 +267,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhay963/DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhay963/DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhay963/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhay963/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
 |  |
 | ------- |
@@ -308,6 +310,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhay963/DSA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhay963/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhay963/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay963/DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -371,6 +374,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhay963/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 |  |
 | ------- |
@@ -500,6 +504,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhay963/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
