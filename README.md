@@ -571,6 +571,7 @@
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/abhay963/DSA-/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1068-product-sales-analysis-i](https://github.com/abhay963/DSA-/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhay963/DSA-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Monotonic Queue
