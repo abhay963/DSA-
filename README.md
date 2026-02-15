@@ -84,6 +84,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/abhay963/DSA-/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [1137-n-th-tribonacci-number](https://github.com/abhay963/DSA-/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhay963/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -321,6 +322,7 @@
 | [0014-longest-common-prefix](https://github.com/abhay963/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhay963/DSA-/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/abhay963/DSA-/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abhay963/DSA-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abhay963/DSA-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhay963/DSA-/tree/master/0127-word-ladder) |
@@ -366,6 +368,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/abhay963/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhay963/DSA-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -484,6 +487,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/abhay963/DSA-/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/abhay963/DSA-/tree/master/0657-robot-return-to-origin) |
 | [2390-removing-stars-from-a-string](https://github.com/abhay963/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
