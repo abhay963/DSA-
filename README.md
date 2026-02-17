@@ -55,6 +55,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/abhay963/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhay963/DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhay963/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/abhay963/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhay963/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhay963/DSA-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -504,6 +505,7 @@
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhay963/DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhay963/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/abhay963/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhay963/DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Indexed Tree
