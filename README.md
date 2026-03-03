@@ -342,6 +342,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/abhay963/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhay963/DSA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/abhay963/DSA-/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhay963/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2390-removing-stars-from-a-string](https://github.com/abhay963/DSA-/tree/master/2390-removing-stars-from-a-string) |
@@ -503,6 +504,7 @@
 | [0043-multiply-strings](https://github.com/abhay963/DSA-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/abhay963/DSA-/tree/master/0657-robot-return-to-origin) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhay963/DSA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/abhay963/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/abhay963/DSA-/tree/master/3379-transformed-array) |
@@ -543,6 +545,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/abhay963/DSA-/tree/master/0206-reverse-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhay963/DSA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Counting
 |  |
 | ------- |
