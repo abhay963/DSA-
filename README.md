@@ -42,6 +42,7 @@
 | [0239-sliding-window-maximum](https://github.com/abhay963/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay963/DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhay963/DSA-/tree/master/0930-binary-subarrays-with-sum) |
@@ -108,6 +109,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/abhay963/DSA-/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhay963/DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay963/DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/abhay963/DSA-/tree/master/0799-champagne-tower) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -373,6 +375,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhay963/DSA-/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay963/DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
