@@ -93,6 +93,7 @@
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [1137-n-th-tribonacci-number](https://github.com/abhay963/DSA-/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhay963/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/abhay963/DSA-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhay963/DSA-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -353,6 +354,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhay963/DSA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/abhay963/DSA-/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhay963/DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/abhay963/DSA-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1980-find-unique-binary-string](https://github.com/abhay963/DSA-/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/abhay963/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhay963/DSA-/tree/master/2483-minimum-penalty-for-a-shop) |
