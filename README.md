@@ -60,6 +60,7 @@
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abhay963/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhay963/DSA-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhay963/DSA-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/abhay963/DSA-/tree/master/1463-cherry-pickup-ii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhay963/DSA-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhay963/DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -112,6 +113,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1137-n-th-tribonacci-number](https://github.com/abhay963/DSA-/tree/master/1137-n-th-tribonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhay963/DSA-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/abhay963/DSA-/tree/master/1463-cherry-pickup-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/abhay963/DSA-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/abhay963/DSA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -533,6 +535,7 @@
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhay963/DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhay963/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/abhay963/DSA-/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1463-cherry-pickup-ii](https://github.com/abhay963/DSA-/tree/master/1463-cherry-pickup-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhay963/DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Indexed Tree
