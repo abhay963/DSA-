@@ -95,6 +95,7 @@
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [1137-n-th-tribonacci-number](https://github.com/abhay963/DSA-/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhay963/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
+| [1622-fancy-sequence](https://github.com/abhay963/DSA-/tree/master/1622-fancy-sequence) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/abhay963/DSA-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/abhay963/DSA-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -424,6 +425,7 @@
 | [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhay963/DSA-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/abhay963/DSA-/tree/master/0901-online-stock-span) |
+| [1622-fancy-sequence](https://github.com/abhay963/DSA-/tree/master/1622-fancy-sequence) |
 | [2336-smallest-number-in-infinite-set](https://github.com/abhay963/DSA-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Stack
 |  |
@@ -549,6 +551,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/abhay963/DSA-/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhay963/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
