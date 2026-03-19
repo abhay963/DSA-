@@ -10,9 +10,9 @@ public:
             word+=s[i];
             i++;
           }
-          reverse(word.begin(),word.end());
+         
           if(word.size()>0){
-
+ reverse(word.begin(),word.end());
             ans+=(' '+ word);
           }
         }
