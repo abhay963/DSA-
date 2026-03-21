@@ -3,14 +3,13 @@ public:
 stack<pair<int,int>>st;
 int idx;
     StockSpanner() {
-        
         idx=-1;
     }
     
     int next(int price) {
         idx=idx+1;
         while(!st.empty() && st.top().first<=price)st.pop();
-        int ans= idx-(st.empty()?-1:st.top().second);
+        int ans=idx-(st.empty()?-1:st.top().second);
         st.push({price,idx});
         return ans;
     }
