@@ -7,17 +7,16 @@ public:
         while(j<nums.size()){
           st.insert(nums[j]);
           if(j-i+1>k){
-            st.erase(st.find(nums[i]));
-            i++;
+              st.erase(nums[i]);
+              i++;
           }
 
           if(j-i+1==k){
-            int el=*st.rbegin();
-            ans.push_back(el);
+            ans.push_back(*st.rbegin());
           }
           j++;
-
         }
-return ans;
+
+        return ans;
     }
 };
