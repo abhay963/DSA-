@@ -31,6 +31,7 @@
 | [0014-longest-common-prefix](https://github.com/abhay963/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/abhay963/DSA-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhay963/DSA-/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/abhay963/DSA-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/abhay963/DSA-/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/abhay963/DSA-/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/abhay963/DSA-/tree/master/0064-minimum-path-sum) |
@@ -313,6 +314,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhay963/DSA-/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/abhay963/DSA-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhay963/DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/abhay963/DSA-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -381,6 +383,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhay963/DSA-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/abhay963/DSA-/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/abhay963/DSA-/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/abhay963/DSA-/tree/master/1980-find-unique-binary-string) |
@@ -554,6 +557,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abhay963/DSA-/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/abhay963/DSA-/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
