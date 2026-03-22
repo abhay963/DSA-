@@ -77,6 +77,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/abhay963/DSA-/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhay963/DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
+| [2596-check-knight-tour-configuration](https://github.com/abhay963/DSA-/tree/master/2596-check-knight-tour-configuration) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhay963/DSA-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhay963/DSA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhay963/DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -198,6 +199,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abhay963/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhay963/DSA-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2596-check-knight-tour-configuration](https://github.com/abhay963/DSA-/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/abhay963/DSA-/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/abhay963/DSA-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2596-check-knight-tour-configuration](https://github.com/abhay963/DSA-/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -555,6 +558,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhay963/DSA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/abhay963/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/abhay963/DSA-/tree/master/2402-meeting-rooms-iii) |
+| [2596-check-knight-tour-configuration](https://github.com/abhay963/DSA-/tree/master/2596-check-knight-tour-configuration) |
 | [3379-transformed-array](https://github.com/abhay963/DSA-/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
@@ -572,6 +576,7 @@
 | [1463-cherry-pickup-ii](https://github.com/abhay963/DSA-/tree/master/1463-cherry-pickup-ii) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abhay963/DSA-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhay963/DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2596-check-knight-tour-configuration](https://github.com/abhay963/DSA-/tree/master/2596-check-knight-tour-configuration) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhay963/DSA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhay963/DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Indexed Tree
