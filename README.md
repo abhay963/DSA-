@@ -45,6 +45,7 @@
 | [0239-sliding-window-maximum](https://github.com/abhay963/DSA-/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhay963/DSA-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/abhay963/DSA-/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay963/DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -330,6 +331,7 @@
 | [0219-contains-duplicate-ii](https://github.com/abhay963/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/abhay963/DSA-/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/abhay963/DSA-/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/abhay963/DSA-/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhay963/DSA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
@@ -459,6 +461,7 @@
 | [0155-min-stack](https://github.com/abhay963/DSA-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/abhay963/DSA-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/abhay963/DSA-/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/abhay963/DSA-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/abhay963/DSA-/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhay963/DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhay963/DSA-/tree/master/2104-sum-of-subarray-ranges) |
@@ -508,6 +511,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhay963/DSA-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/abhay963/DSA-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/abhay963/DSA-/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhay963/DSA-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhay963/DSA-/tree/master/2104-sum-of-subarray-ranges) |
