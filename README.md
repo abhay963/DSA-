@@ -102,6 +102,7 @@
 | [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/abhay963/DSA-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0070-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [1137-n-th-tribonacci-number](https://github.com/abhay963/DSA-/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhay963/DSA-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhay963/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/abhay963/DSA-/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhay963/DSA-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -669,6 +671,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/abhay963/DSA-/tree/master/1137-n-th-tribonacci-number) |
 ## Database
 |  |
