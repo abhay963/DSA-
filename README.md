@@ -53,6 +53,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhay963/DSA-/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/abhay963/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhay963/DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -128,6 +129,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay963/DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/abhay963/DSA-/tree/master/0799-champagne-tower) |
+| [0931-minimum-falling-path-sum](https://github.com/abhay963/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/abhay963/DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1137-n-th-tribonacci-number](https://github.com/abhay963/DSA-/tree/master/1137-n-th-tribonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/abhay963/DSA-/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -585,6 +587,7 @@
 | [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/abhay963/DSA-/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/abhay963/DSA-/tree/master/0840-magic-squares-in-grid) |
+| [0931-minimum-falling-path-sum](https://github.com/abhay963/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/abhay963/DSA-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhay963/DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhay963/DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
