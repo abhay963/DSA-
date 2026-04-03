@@ -123,6 +123,7 @@
 | [0064-minimum-path-sum](https://github.com/abhay963/DSA-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/abhay963/DSA-/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/abhay963/DSA-/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhay963/DSA-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhay963/DSA-/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -375,6 +376,7 @@
 | [0043-multiply-strings](https://github.com/abhay963/DSA-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abhay963/DSA-/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/abhay963/DSA-/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhay963/DSA-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhay963/DSA-/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/abhay963/DSA-/tree/master/0151-reverse-words-in-a-string) |
