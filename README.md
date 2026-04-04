@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhay963/DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/abhay963/DSA-/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/abhay963/DSA-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/abhay963/DSA-/tree/master/0085-maximal-rectangle) |
@@ -374,6 +375,7 @@
 | [0014-longest-common-prefix](https://github.com/abhay963/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhay963/DSA-/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/abhay963/DSA-/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/abhay963/DSA-/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abhay963/DSA-/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/abhay963/DSA-/tree/master/0115-distinct-subsequences) |
@@ -413,6 +415,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhay963/DSA-/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/abhay963/DSA-/tree/master/0044-wildcard-matching) |
 | [0621-task-scheduler](https://github.com/abhay963/DSA-/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhay963/DSA-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/abhay963/DSA-/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -632,6 +635,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhay963/DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/abhay963/DSA-/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/abhay963/DSA-/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhay963/DSA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Counting
