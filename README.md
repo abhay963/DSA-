@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhay963/DSA-/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/abhay963/DSA-/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/abhay963/DSA-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abhay963/DSA-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/abhay963/DSA-/tree/master/0070-climbing-stairs) |
