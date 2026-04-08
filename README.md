@@ -99,6 +99,7 @@
 | [3640-trionic-array-ii](https://github.com/abhay963/DSA-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhay963/DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhay963/DSA-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/abhay963/DSA-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhay963/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhay963/DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
@@ -456,6 +457,7 @@
 | [0493-reverse-pairs](https://github.com/abhay963/DSA-/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/abhay963/DSA-/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhay963/DSA-/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/abhay963/DSA-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhay963/DSA-/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 |  |
@@ -593,6 +595,7 @@
 | [2751-robot-collisions](https://github.com/abhay963/DSA-/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/abhay963/DSA-/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhay963/DSA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/abhay963/DSA-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |
