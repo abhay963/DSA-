@@ -35,7 +35,7 @@ else{
             }
             st.pop();
             char val=solve(st.top(),arr);
-            st.pop();
+           
             st.push(val);
           }
         }
